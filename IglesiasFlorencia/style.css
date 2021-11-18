@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    text-align: justify;
+    font-size: larger;
+    background-color: hsl(68, 13%, 46%);
+}
+h1 {
+    color: rgb(19, 19, 163);
+    font-weight: 900;
+    letter-spacing: 50px;
+    text-align: right;
+  }
+h2 {
+    color: white;
+    background-color: rgb(68, 85, 40);
+}
+img.izquierda {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  img.derecha {
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  p.centrado {
+      text-align: center;
+  }
